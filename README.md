@@ -1,1 +1,1 @@
-about it # anotherday
+it was my first c project . basically it consist of conversion of units, "Unit Conversion Tool", designed to simplify the conversion of values across different categories, such as temperature, currency, and length. The tool provides a user-friendly interface where users can select a conversion category, choose the type of conversion (e.g., Celsius to Fahrenheit, INR to USD), input a value, and get the result instantly...!
